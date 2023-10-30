@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/PW_Frontend.csproj": {}
+    "/Users/alis/Projects/Pw_Manager/PW_Frontend/PW_Frontend.csproj": {}
   },
   "projects": {
-    "/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/PW_Frontend.csproj": {
+    "/Users/alis/Projects/Pw_Manager/PW_Frontend/PW_Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/PW_Frontend.csproj",
+        "projectUniqueName": "/Users/alis/Projects/Pw_Manager/PW_Frontend/PW_Frontend.csproj",
         "projectName": "PW_Frontend",
-        "projectPath": "/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/PW_Frontend.csproj",
+        "projectPath": "/Users/alis/Projects/Pw_Manager/PW_Frontend/PW_Frontend.csproj",
         "packagesPath": "/Users/alis/.nuget/packages/",
-        "outputPath": "/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/obj/",
+        "outputPath": "/Users/alis/Projects/Pw_Manager/PW_Frontend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alis/.nuget/NuGet/NuGet.Config"

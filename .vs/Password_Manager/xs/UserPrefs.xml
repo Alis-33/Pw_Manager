@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{625A28C3-7085-4541-A1CA-919E1A68567D}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PW_Frontend/Pages/Index.razor">
+    <Files>
+      <File FileName="PW_Frontend/App.razor" Line="1" Column="1" />
+      <File FileName="PW_Frontend/Program.cs" Line="1" Column="1" />
+      <File FileName="PW_Frontend/Pages/Index.razor" Line="44" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Password_Manager">
+            <Node name="Frontend" expanded="True">
+              <Node name="PW_Frontend" expanded="True">
+                <Node name="Pages" expanded="True">
+                  <Node name="Index.razor" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Frontend.PW__Frontend PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>

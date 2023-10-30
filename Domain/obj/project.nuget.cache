@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IOXZWwOzlFS12zUeEWy1PdjBWKeZn+0AeRfdLdfTDDHMOIs8I4m0ZcnJa02ooOIVD6nyDuU10F9dst1PQgAd8Q==",
+  "dgSpecHash": "6IscAClLVL4U8PMS86eXiBIo1KZd8bRoLuVCGunF+WXF5S1H1Ndmh7w9kY4s9vlxfZDISY+izB1/EKXERuhZ8w==",
   "success": true,
-  "projectFilePath": "/Users/alis/Downloads/Pw_Manager-master/Domain/Domain.csproj",
+  "projectFilePath": "/Users/alis/Projects/Pw_Manager/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

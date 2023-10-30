@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1q2wqHHW7GfJCRSyfchbKE581wjX9pA4YVYNOWz3fjIL/eDQ0NniT2TJkiiDDBR+ob7a25nIx9VkS+/qB9hJAQ==",
+  "dgSpecHash": "i32syGzupji8yWfJnw+gFRvdE5cVmuFr70nNL0AO56flEIJkKf6XkVzQie7JknXU3E3IshhtstmHcDUIVTC+Qw==",
   "success": true,
-  "projectFilePath": "/Users/alis/Downloads/Pw_Manager-master/DataAcces/DataAcces.csproj",
+  "projectFilePath": "/Users/alis/Projects/Pw_Manager/DataAcces/DataAcces.csproj",
   "expectedPackageFiles": [
     "/Users/alis/.nuget/packages/microsoft.entityframeworkcore/7.0.11/microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "/Users/alis/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.11/microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

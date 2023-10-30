@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AKpf+oTxaUAnr0U99dx5j7mjiaIUG7EqCYS7/x1UwNC0JaQkoGdjYY7DLSTE1I62zIE+/gZFGLO1go4ghBf6Yg==",
+  "dgSpecHash": "9Ev5IRnqM5yQuuYdv0tOsxWWzaMSvQaKZ0tNi88atHyU25ecaycNrRmCr7RXfoB5qrP48N5X50vhQTsOBNXsxg==",
   "success": true,
-  "projectFilePath": "/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/PW_Frontend.csproj",
+  "projectFilePath": "/Users/alis/Projects/Pw_Manager/PW_Frontend/PW_Frontend.csproj",
   "expectedPackageFiles": [
     "/Users/alis/.nuget/packages/blazored.localstorage/4.4.0/blazored.localstorage.4.4.0.nupkg.sha512",
     "/Users/alis/.nuget/packages/blazored.toast/4.1.0/blazored.toast.4.1.0.nupkg.sha512",

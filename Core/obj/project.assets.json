@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alis/Downloads/Pw_Manager-master/Core/Core.csproj",
+      "projectUniqueName": "/Users/alis/Projects/Pw_Manager/Core/Core.csproj",
       "projectName": "Core",
-      "projectPath": "/Users/alis/Downloads/Pw_Manager-master/Core/Core.csproj",
+      "projectPath": "/Users/alis/Projects/Pw_Manager/Core/Core.csproj",
       "packagesPath": "/Users/alis/.nuget/packages/",
-      "outputPath": "/Users/alis/Downloads/Pw_Manager-master/Core/obj/",
+      "outputPath": "/Users/alis/Projects/Pw_Manager/Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alis/.nuget/NuGet/NuGet.Config"

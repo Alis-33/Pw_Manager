@@ -558,11 +558,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alis/Downloads/Pw_Manager-master/DataAcces/DataAcces.csproj",
+      "projectUniqueName": "/Users/alis/Projects/Pw_Manager/DataAcces/DataAcces.csproj",
       "projectName": "DataAcces",
-      "projectPath": "/Users/alis/Downloads/Pw_Manager-master/DataAcces/DataAcces.csproj",
+      "projectPath": "/Users/alis/Projects/Pw_Manager/DataAcces/DataAcces.csproj",
       "packagesPath": "/Users/alis/.nuget/packages/",
-      "outputPath": "/Users/alis/Downloads/Pw_Manager-master/DataAcces/obj/",
+      "outputPath": "/Users/alis/Projects/Pw_Manager/DataAcces/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alis/.nuget/NuGet/NuGet.Config"
@@ -577,11 +577,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/alis/Downloads/Pw_Manager-master/Core/Core.csproj": {
-              "projectPath": "/Users/alis/Downloads/Pw_Manager-master/Core/Core.csproj"
+            "/Users/alis/Projects/Pw_Manager/Core/Core.csproj": {
+              "projectPath": "/Users/alis/Projects/Pw_Manager/Core/Core.csproj"
             },
-            "/Users/alis/Downloads/Pw_Manager-master/Domain/Domain.csproj": {
-              "projectPath": "/Users/alis/Downloads/Pw_Manager-master/Domain/Domain.csproj"
+            "/Users/alis/Projects/Pw_Manager/Domain/Domain.csproj": {
+              "projectPath": "/Users/alis/Projects/Pw_Manager/Domain/Domain.csproj"
             }
           }
         }

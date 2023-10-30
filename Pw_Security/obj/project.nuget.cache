@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eOui7eP4OcM2FqUTCEVTnCZ4BTmqqdC2kOPzA9dB4AiJKvYXCOS2jDKWQ5KOVxUErLsmDcHOis5tbqwxgnXfJw==",
+  "dgSpecHash": "A9FTOiV7IbEposO4qczJ1tcCOroUzUWsyDWZY2/PGjF3VhvYp1pHk2vlNUBdUVGnu6OO0boWLZiNkNgkydzTaQ==",
   "success": true,
-  "projectFilePath": "/Users/alis/Downloads/Pw_Manager-master/Pw_Security/Pw_Security.csproj",
+  "projectFilePath": "/Users/alis/Projects/Pw_Manager/Pw_Security/Pw_Security.csproj",
   "expectedPackageFiles": [
     "/Users/alis/.nuget/packages/konscious.security.cryptography.argon2/1.3.0/konscious.security.cryptography.argon2.1.3.0.nupkg.sha512",
     "/Users/alis/.nuget/packages/konscious.security.cryptography.blake2/1.1.0/konscious.security.cryptography.blake2.1.1.0.nupkg.sha512",

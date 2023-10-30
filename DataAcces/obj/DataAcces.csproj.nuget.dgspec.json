@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alis/Downloads/Pw_Manager-master/DataAcces/DataAcces.csproj": {}
+    "/Users/alis/Projects/Pw_Manager/DataAcces/DataAcces.csproj": {}
   },
   "projects": {
-    "/Users/alis/Downloads/Pw_Manager-master/Core/Core.csproj": {
+    "/Users/alis/Projects/Pw_Manager/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alis/Downloads/Pw_Manager-master/Core/Core.csproj",
+        "projectUniqueName": "/Users/alis/Projects/Pw_Manager/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/alis/Downloads/Pw_Manager-master/Core/Core.csproj",
+        "projectPath": "/Users/alis/Projects/Pw_Manager/Core/Core.csproj",
         "packagesPath": "/Users/alis/.nuget/packages/",
-        "outputPath": "/Users/alis/Downloads/Pw_Manager-master/Core/obj/",
+        "outputPath": "/Users/alis/Projects/Pw_Manager/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alis/.nuget/NuGet/NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "/Users/alis/Downloads/Pw_Manager-master/DataAcces/DataAcces.csproj": {
+    "/Users/alis/Projects/Pw_Manager/DataAcces/DataAcces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alis/Downloads/Pw_Manager-master/DataAcces/DataAcces.csproj",
+        "projectUniqueName": "/Users/alis/Projects/Pw_Manager/DataAcces/DataAcces.csproj",
         "projectName": "DataAcces",
-        "projectPath": "/Users/alis/Downloads/Pw_Manager-master/DataAcces/DataAcces.csproj",
+        "projectPath": "/Users/alis/Projects/Pw_Manager/DataAcces/DataAcces.csproj",
         "packagesPath": "/Users/alis/.nuget/packages/",
-        "outputPath": "/Users/alis/Downloads/Pw_Manager-master/DataAcces/obj/",
+        "outputPath": "/Users/alis/Projects/Pw_Manager/DataAcces/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alis/.nuget/NuGet/NuGet.Config"
@@ -79,11 +79,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/alis/Downloads/Pw_Manager-master/Core/Core.csproj": {
-                "projectPath": "/Users/alis/Downloads/Pw_Manager-master/Core/Core.csproj"
+              "/Users/alis/Projects/Pw_Manager/Core/Core.csproj": {
+                "projectPath": "/Users/alis/Projects/Pw_Manager/Core/Core.csproj"
               },
-              "/Users/alis/Downloads/Pw_Manager-master/Domain/Domain.csproj": {
-                "projectPath": "/Users/alis/Downloads/Pw_Manager-master/Domain/Domain.csproj"
+              "/Users/alis/Projects/Pw_Manager/Domain/Domain.csproj": {
+                "projectPath": "/Users/alis/Projects/Pw_Manager/Domain/Domain.csproj"
               }
             }
           }
@@ -123,14 +123,14 @@
         }
       }
     },
-    "/Users/alis/Downloads/Pw_Manager-master/Domain/Domain.csproj": {
+    "/Users/alis/Projects/Pw_Manager/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alis/Downloads/Pw_Manager-master/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/alis/Projects/Pw_Manager/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/alis/Downloads/Pw_Manager-master/Domain/Domain.csproj",
+        "projectPath": "/Users/alis/Projects/Pw_Manager/Domain/Domain.csproj",
         "packagesPath": "/Users/alis/.nuget/packages/",
-        "outputPath": "/Users/alis/Downloads/Pw_Manager-master/Domain/obj/",
+        "outputPath": "/Users/alis/Projects/Pw_Manager/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alis/.nuget/NuGet/NuGet.Config"
@@ -145,8 +145,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/alis/Downloads/Pw_Manager-master/Core/Core.csproj": {
-                "projectPath": "/Users/alis/Downloads/Pw_Manager-master/Core/Core.csproj"
+              "/Users/alis/Projects/Pw_Manager/Core/Core.csproj": {
+                "projectPath": "/Users/alis/Projects/Pw_Manager/Core/Core.csproj"
               }
             }
           }
