@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOui7eP4OcM2FqUTCEVTnCZ4BTmqqdC2kOPzA9dB4AiJKvYXCOS2jDKWQ5KOVxUErLsmDcHOis5tbqwxgnXfJw==",
+  "success": true,
+  "projectFilePath": "/Users/alis/Downloads/Pw_Manager-master/Pw_Security/Pw_Security.csproj",
+  "expectedPackageFiles": [
+    "/Users/alis/.nuget/packages/konscious.security.cryptography.argon2/1.3.0/konscious.security.cryptography.argon2.1.3.0.nupkg.sha512",
+    "/Users/alis/.nuget/packages/konscious.security.cryptography.blake2/1.1.0/konscious.security.cryptography.blake2.1.1.0.nupkg.sha512",
+    "/Users/alis/.nuget/packages/microsoft.entityframeworkcore/7.0.11/microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
+    "/Users/alis/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.11/microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
+    "/Users/alis/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.11/microsoft.entityframeworkcore.analyzers.7.0.11.nupkg.sha512",
+    "/Users/alis/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/alis/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/alis/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/alis/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/alis/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/alis/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/alis/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/alis/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/alis/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/alis/.nuget/packages/microsoft.identitymodel.abstractions/7.0.2/microsoft.identitymodel.abstractions.7.0.2.nupkg.sha512",
+    "/Users/alis/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.0.2/microsoft.identitymodel.jsonwebtokens.7.0.2.nupkg.sha512",
+    "/Users/alis/.nuget/packages/microsoft.identitymodel.logging/7.0.2/microsoft.identitymodel.logging.7.0.2.nupkg.sha512",
+    "/Users/alis/.nuget/packages/microsoft.identitymodel.tokens/7.0.2/microsoft.identitymodel.tokens.7.0.2.nupkg.sha512",
+    "/Users/alis/.nuget/packages/system.identitymodel.tokens.jwt/7.0.2/system.identitymodel.tokens.jwt.7.0.2.nupkg.sha512",
+    "/Users/alis/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

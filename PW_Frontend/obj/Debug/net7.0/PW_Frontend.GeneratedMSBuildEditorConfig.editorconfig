@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = PW_Frontend
+build_property.RootNamespace = PW_Frontend
+build_property.ProjectDir = /Users/alis/Downloads/Pw_Manager-master/PW_Frontend/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/alis/Downloads/Pw_Manager-master/PW_Frontend
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/Pages/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/Pages/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/Pages/Update.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXBkYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/Shared/LogoutDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0xvZ291dERpc3BsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/Shared/ToastComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1RvYXN0Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/Shared/BlankLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0JsYW5rTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-rm5y6e9467
+
+[/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-lo5spjrgjw
+
+[/Users/alis/Downloads/Pw_Manager-master/PW_Frontend/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-vgky0x726c
